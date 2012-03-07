@@ -1,6 +1,9 @@
 CACHE MANIFEST
-# version 7
+# version 8
 
 CACHE:
 # list file here, exclude the HTML
 HTML5_Logo_512.png
+
+NETWORK:
+*
